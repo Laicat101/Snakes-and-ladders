@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Enver/Snakes and Ladders to haven/Snakes and Ladders to haven/Content/background music/kibishi_time_s_arrow_-9095581066354777626.mp3</SourceFile>
+  <SourceTime>2021-12-06T10:17:24-05:00</SourceTime>
+  <DestFile>D:/Enver/Snakes and Ladders to haven/Snakes and Ladders to haven/Content/bin/DesktopGL/background music/kibishi_time_s_arrow_-9095581066354777626.xnb</DestFile>
+  <DestTime>2021-12-10T12:03:50-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-10-11T15:37:00-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-10-11T15:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Enver/Snakes and Ladders to haven/Snakes and Ladders to haven/Content/bin/DesktopGL/background music/kibishi_time_s_arrow_-9095581066354777626.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

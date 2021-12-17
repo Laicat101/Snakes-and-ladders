@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Enver/Snakes and Ladders to haven/Snakes and Ladders to haven/Content/Fonts/Title Font.spritefont</SourceFile>
+  <SourceTime>2021-12-03T09:56:10-05:00</SourceTime>
+  <DestFile>D:/Enver/Snakes and Ladders to haven/Snakes and Ladders to haven/Content/bin/DesktopGL/Fonts/Title Font.xnb</DestFile>
+  <DestTime>2021-12-10T12:03:50-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-10-11T15:37:00-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-10-11T15:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
